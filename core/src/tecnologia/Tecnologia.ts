@@ -1,6 +1,6 @@
 export default interface Tecnologia {
     id: number
-    name: string
+    nome: string
     descricao: string
     imagem: string
     destaque: boolean
